@@ -16,9 +16,9 @@ Pista:
 **5. Cálculo de distancia de renos**
 
 Pista:
-- Busca una fórmula para calcular la distancia entre dos coordenadas (usa la fórmula del Haversine si es necesario).
-- Implementa un método que acepte las coordenadas como entrada y devuelva la distancia total.
-- Prueba con datos ficticios para verificar que el cálculo sea correcto.
+- Utiliza una fórmula sencilla de distancia euclidiana para calcular la diferencia entre las coordenadas de dos ciudades.
+- Implementa un método que acepte las coordenadas de las ciudades como entrada y devuelva la distancia total recorrida.
+- Prueba con datos ficticios para verificar que el cálculo sea correcto. HOY NO HAY TEST JEJEJEJEJE REGALO ADELANTADO DEL DÍA.
 
 **6. Asignación automática de paquetes grandes**
 
