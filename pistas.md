@@ -44,7 +44,6 @@ Pista:
 **9. Generar códigos de seguimiento de trineo**
 
 Pista:
-- Usa el método Crypto.generateUUID() para generar un identificador único.
 - Asegúrate de asignarlo al campo correspondiente en cada registro.
 - Usa un trigger para ejecutarlo automáticamente al crear un registro.
 
