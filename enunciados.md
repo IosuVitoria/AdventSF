@@ -33,7 +33,7 @@ A continuación se puede ver una lista de todos los enunciados del calendario de
 
 16. **Validación de envíos internacionales**: *Desarrolla un método que recorra una lista de pedidos y marque con un campo Internacional__c aquellos cuya dirección de entrega esté fuera del país principal.*
 
-17. **Ranking de eficiencia de elfos**: *Crea una clase que calcule cuántas tareas ha completado cada elfo y genere un ranking basado en eficiencia.*
+17. **Ranking de eficiencia de elfos**: *Utiliza un Map<Id, Integer> para almacenar la cantidad de tareas completadas por cada elfo. La clave será el ID del elfo y el valor será el número de tareas.*
 
 18. **Cálculo de velocidad de entrega del trineo**: *Escribe un método que reciba la distancia total recorrida y el tiempo tomado, y calcule la velocidad promedio del trineo.*
 
